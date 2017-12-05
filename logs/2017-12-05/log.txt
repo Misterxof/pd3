@@ -1,0 +1,182 @@
+2017-12-05 11:46:37 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 11:46:37 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 11:46:37 [main] DEBUG  controllers.TextController - Success!
+Checking words from first sentence which are not in the other sentences: 
+2017-12-05 11:46:37 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 11:46:37 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 13:20:26 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 13:20:27 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 13:20:27 [main] DEBUG  controllers.TextController - Success!
+Checking words from first sentence which are not in the other sentences: 
+2017-12-05 13:20:27 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 13:20:27 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 13:44:58 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 13:44:59 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 13:44:59 [main] DEBUG  controllers.TextController - Success!
+Checking words from first sentence which are not in the other sentences: 
+2017-12-05 13:44:59 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 13:44:59 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 13:45:49 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 13:45:50 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 13:45:50 [main] DEBUG  controllers.TextController - Success!
+Checking words from first sentence which are not in the other sentences: 
+2017-12-05 13:45:50 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 13:45:50 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 14:08:54 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 14:08:54 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 14:08:54 [main] DEBUG  controllers.TextController - Success!
+Checking words from first sentence which are not in the other sentences: 
+2017-12-05 14:08:54 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 14:08:54 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:18:13 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:18:13 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:18:13 [main] DEBUG  controllers.TextController - Success!
+Checking words from first sentence which are not in the other sentences: 
+2017-12-05 15:18:13 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:18:13 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:18:39 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:18:39 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:18:39 [main] DEBUG  controllers.TextController - Success!
+Checking words from first sentence which are not in the other sentences: 
+2017-12-05 15:18:39 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:18:39 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:20:32 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:20:32 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:20:32 [main] DEBUG  controllers.TextController - Success!
+Checking words from first sentence which are not in the other sentences: 
+2017-12-05 15:20:32 [main] DEBUG  controllers.TextController - Word was found. 
+2017-12-05 15:20:32 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:20:32 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:20:59 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:20:59 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:20:59 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 15:20:59 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 15:20:59 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:20:59 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:21:36 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:21:36 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:21:36 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 15:21:36 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 15:21:36 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:21:36 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:21:54 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:21:54 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:21:54 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 15:21:54 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 15:21:54 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:21:54 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:39:11 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:39:12 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:39:12 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 15:39:12 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 15:39:12 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:39:12 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:40:25 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:40:25 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:40:25 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 15:40:25 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 15:40:25 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:40:25 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:42:05 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:42:05 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:42:05 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 15:42:05 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 15:42:05 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:42:05 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:43:17 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:43:17 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:43:17 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 15:43:17 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 15:43:17 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:43:17 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 15:44:21 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 15:44:21 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 15:44:21 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 15:44:21 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 15:44:21 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 15:44:21 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 17:38:31 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 17:38:31 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 17:38:31 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 17:38:31 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 17:38:31 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 17:38:32 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 17:45:18 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 17:45:18 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 17:45:18 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 17:45:18 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 17:45:18 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 17:45:18 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 18:05:31 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 18:05:31 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 18:05:31 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 18:05:31 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 18:05:31 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 18:05:31 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 18:08:52 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 18:08:52 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 18:08:52 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 18:08:52 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 18:08:52 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 18:08:52 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 18:09:10 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 18:09:10 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 18:09:10 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 18:09:10 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 18:09:10 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 18:09:10 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 18:09:23 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 18:09:23 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 18:09:23 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 18:09:23 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 18:09:23 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 18:09:23 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 18:10:28 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 18:10:28 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 18:10:28 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 18:10:28 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 18:10:28 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 18:10:28 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 18:30:33 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 18:30:33 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 18:30:33 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 18:30:33 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 18:30:33 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 18:30:33 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 18:37:35 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 18:37:35 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 18:37:35 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 18:37:35 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 18:37:35 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 18:37:35 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 18:42:02 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 18:42:02 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 18:42:02 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 18:42:02 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 18:42:02 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 18:42:02 [main] DEBUG  controllers.TextController - Success! List was sorted.
+2017-12-05 18:43:53 [main] DEBUG  view.View - Localization included successfully
+2017-12-05 18:43:53 [main] DEBUG  controllers.TextController - Find first sentence. 
+2017-12-05 18:43:53 [main] DEBUG  controllers.TextController - Success!
+2017-12-05 18:43:53 [main] DEBUG  controllers.TextController - Word was found.
+Checking words from first sentence which are not in the other sentences:  
+2017-12-05 18:43:53 [main] DEBUG  controllers.TextController - Adding sentences to list for sorting.
+2017-12-05 18:43:53 [main] DEBUG  controllers.TextController - Success! List was sorted.
